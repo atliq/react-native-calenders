@@ -28,6 +28,11 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
+  "files": [
+      "/src/index.d.ts",
+      "/src/index.ts",
+      "/src"
+  ],
   "author": "Wix.com",
   "license": "MIT",
   "dependencies": {
