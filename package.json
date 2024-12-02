@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hardikgpatel/react-native-calenders.git"
+    "url": "git+https://github.com/atliq/react-native-calenders.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
