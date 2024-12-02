@@ -32,7 +32,13 @@
       "/src/index.d.ts",
       "/src/index.ts",
       "/src",
-      "/."
+      "/android",
+      "/ios",
+      "/demo",
+      "/docsRNC",
+      "/e2e",
+      "/scripts",
+      "/example"
   ],
   "author": "Wix.com",
   "license": "MIT",
