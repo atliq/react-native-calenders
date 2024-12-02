@@ -31,7 +31,8 @@
   "files": [
       "/src/index.d.ts",
       "/src/index.ts",
-      "/src"
+      "/src",
+      "/."
   ],
   "author": "Wix.com",
   "license": "MIT",
